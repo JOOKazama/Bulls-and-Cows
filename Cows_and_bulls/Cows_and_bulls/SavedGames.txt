@@ -1,0 +1,77 @@
+------------------------------------------------------------------------- 
+
+Time: 2021 / 5 / 2 / 21:11:1
+
+Player 1 secret number: 1234
+Player 2 secret number: 4567
+
+
+Player 1 Turn 1 / Cows: 0 Bulls: 4
+Player 1 wins! 
+
+End of game! 
+
+------------------------------------------------------------------------- 
+
+Time: 2021 / 5 / 6 / 6:43:17
+
+Player 1 secret number: 1234
+Player 2 secret number: 5678
+
+Player 1 Turn 1 / Cows: 0 Bulls: 0
+Player 2 Turn 1 / Cows: 0 Bulls: 3
+Player 1 Turn 2 / Cows: 0 Bulls: 3
+Player 2 Turn 2 / Cows: 0 Bulls: 3
+Player 1 Turn 3 / Cows: 1 Bulls: 1
+Player 2 Turn 3 / Cows: 0 Bulls: 4
+Player 2 wins! 
+
+End of game! 
+
+------------------------------------------------------------------------- 
+
+Time: 2021 / 5 / 6 / 20:54:43
+
+Player 1 secret number: 1234
+Player 2 secret number: 5678
+Player 1 Turn 1 / Cows: 0 Bulls: 1
+Player 2 Turn 1 / Cows: 0 Bulls: 3
+Player 1 Turn 2 / Cows: 0 Bulls: 4
+Player 1 wins! 
+
+End of game! 
+
+------------------------------------------------------------------------- 
+
+Time: 2021 / 5 / 13 / 13:37:1
+
+Player 1 secret number: 1234
+Player 2 secret number: 5678
+
+Player 1 Turn 1 / Cows: 0 Bulls: 2
+Player 2 Turn 2 / Cows: 2 Bulls: 2
+Player 1 Turn 3 / Cows: 0 Bulls: 0
+Player 2 Turn 3 / Cows: 0 Bulls: 2
+Player 1 Turn 4 / Cows: 0 Bulls: 4
+Player 1 wins! 
+
+End of game! 
+
+------------------------------------------------------------------------- 
+
+Time: 2021 / 5 / 13 / 13:38:3
+
+Player 1 secret number: 1234
+Player 2 secret number: 1234
+
+Player 1 Turn 1 / Cows: 0 Bulls: 3
+Player 2 Turn 1 / Cows: 0 Bulls: 0
+Player 1 Turn 2 / Cows: 0 Bulls: 0
+Player 2 Turn 3 / Cows: 0 Bulls: 0
+Player 1 Turn 3 / Cows: 0 Bulls: 0
+Player 2 Turn 4 / Cows: 0 Bulls: 3
+Player 1 Turn 4 / Cows: 0 Bulls: 4
+Player 1 wins! 
+
+End of game! 
+
